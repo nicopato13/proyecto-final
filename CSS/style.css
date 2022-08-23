@@ -2,6 +2,13 @@
     height: 30rem;
 }
 
+h1{
+    margin-top: 2rem ;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 h2{
     background-color: rgb(92, 92, 175);
     text-align: center;
@@ -17,3 +24,11 @@ h2{
     padding: 2rem;
     
 }
+
+.formlook{
+    padding: 5%;
+}
+
+  .sm-button{
+    background-color: darksalmon;
+  }
