@@ -2,3 +2,18 @@
     height: 30rem;
 }
 
+h2{
+    background-color: rgb(92, 92, 175);
+    text-align: center;
+    font-size: 2rem;
+
+    padding: 6px;
+}
+
+.map{
+    width: 500px;
+    height: 400px;
+    margin: 2rem 0;
+    padding: 2rem;
+    
+}
