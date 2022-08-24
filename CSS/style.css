@@ -17,6 +17,14 @@ h2{
     padding: 6px;
 }
 
+h3{
+    margin: auto;
+}
+
+p{
+    text-align: center;
+}
+
 .map{
     width: 500px;
     height: 400px;
@@ -29,6 +37,14 @@ h2{
     padding: 5%;
 }
 
-  .sm-button{
+.sm-button{
     background-color: darksalmon;
   }
+
+.listaDePlanes ul li {
+    font-size: 20px;
+    font-family: 'Hind Vadodara', sans-serif;
+    text-align: center;
+    list-style: none;
+  }
+  
